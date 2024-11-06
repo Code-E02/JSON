@@ -1,0 +1,68 @@
+[
+    {
+      "title": "Mario",
+      "imageUrl": "https://en.wikipedia.org/wiki/Mario#/media/File:Mario_by_Shigehisa_Nakaue.png",
+      "altText": "A short man with bright blue eyes wearing overalls and sporting a red hat and matching shirt. He has a fluffy brown mustache and wears white gloves",
+      "text": "Fun Fact: Mario was born in 1981 and first debuted in 'Donkey Kong', not in his own stand alone game."
+    },
+    {
+     
+      "title": "Luigi",
+      "imageUrl": "https://en.wikipedia.org/wiki/Luigi#/media/File:Luigi_by_Shigehisa_Nakaue.png",
+      "altText": "A man of average height with blue eyes and a distingueshed mustache, he sports a blue set of overalls and sports a green hat paired with a green shirt.",
+      "text": "Luigi's first debut was in 'Mario Bros' a 1983 platform game. Fun Fact: march 2013 Nintendo annouced the year of Luigi"
+    },
+    {
+        "title": "Wario",
+        "imageUrl": "https://en.wikipedia.org/wiki/Wario#/media/File:Wario.png",
+        "altText": "rotund man in a yellow hat and purple overalls. He wears green pointy shoes and has a devious smile under his crinkly mustache",
+        "text": "Wario first apeared in Nintendo's as the Final Boss in 'Super Mario Land 2'. Fun Fact: His name is a play on words, the word 'warui' means 'bad' in japanese."
+    },
+    {
+       "title": "WaLuigi",
+        "imageUrl": "https://en.wikipedia.org/wiki/Waluigi#/media/File:Waluigi_by_Shigehisa_Nakaue.png",
+        "altText": "A tall skinny man bearing a jagged mustache, he sports overalls white gloves and a purple hat with a matching purple shirt",
+        "text": "Waluigi did not debut until the year 2000, in a game titled 'mario tennis'. truly an odd character, under my interpretation is his goal is to be better than Luigi at tennis. Making him his archNemesis." 
+    },
+    {
+      "title": "Donkey Kong",
+        "imageUrl": "DonkeyKong.png",
+        "altText": "A muscular brown cartoon ape sporting a red Tie",
+        "text": "Donkey Kong debuted in 1981 in Donkey Kong the game, he was dipicted throwing barrells at 'jumpman' who was Mario before he was given his official name. Dispite his name, he is an ape."
+    },
+    {
+        "title": "King K. Rool",
+        "imageUrl": "https://www.ssbwiki.com/King_K._Rool_(SSBU)#/media/File:King_K._Rool_SSBU.png",
+        "altText": "A rotund crocodile sporting gold jewlery a red cape and a golden crown",
+        "text":"King K. first debued in 1981 as Donkey Kongs archnemesis! He is evil, his malicious crimes include 'stealing King Kongs banana hoard' and trying to take over his island."
+    },
+    
+    {
+        "title": "Wii Fit Trainer",
+        "imageUrl": "https://www.ssbwiki.com/Wii_Fit_Trainer_(SSBU)#/media/File:Wii_Fit_Trainer_SSBU.png",
+        "altText": "A mannaquin like person sporting athletic wear",
+        "text": "Wii fit trainer first debuted on the release of the wii fit in 2007, now a playable character in the smash bros ultimate lineup. Nothing is entirely special about this character (no lore)"
+    },
+    
+    {
+        "title": "Duck Hunt",
+        "imageUrl": "https://www.ssbwiki.com/King_K._Rool_(SSBU)#/media/File:King_K._Rool_SSBU.png",
+        "altText": "A cartoon dog with a mallard duck teamed together.",
+        "text":"duck Hunt first debuted in 1976 with the release of the NES. Now a playable character in smash bros ultimate, Fun Fact: in the original game the dog had No friendship with the ducks, in 'Smash Bros' they are a team."
+    },
+
+    {
+      "title": "Ryu",
+        "imageUrl": "https://en.wikipedia.org/wiki/Ryu_(Street_Fighter)#/media/File:RyuStreetFighterTwoHadoken.png",
+        "altText": "Japanese fighter sporting a gi with a red headband and cutoff sleeves",
+        "text":"Ryu first apeared in 'Street Fighter' in 1987 and has been a prevelant character in all the games until now, In 'Smash Bros' his available movesets mimic the original game."
+    },
+    
+    {
+        "title": "Captain Falcon",
+        "imageUrl": "https://www.ssbwiki.com/File:GX_Captain_Falcon.png",
+        "altText": "Space pilot, muscular stature, blue coverals with shoulder armour plate, red helmet with golden falcon on the front.",
+        "text":"Captain Falcon Debuted in F-Zero in 1990, he is known for his funny catchphrases and devastating moves on 'Smash Bros'."
+      
+    }
+  ]
