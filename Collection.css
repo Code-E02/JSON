@@ -1,0 +1,30 @@
+#back{
+    height:100%;
+    width:100%;
+}
+body{
+    position:relative;
+    background-image: url('Slippi_Dolphin_1mzrQzsWGj.gif');
+    background-size: 2000px;
+}
+h1{
+    text-align: center;
+    height:120px;
+    background-color: violet;
+    width: auto;
+    padding: 10px;
+}
+#container{
+    position:absolute;
+    right:50%;
+    left:40%;
+    width:300px;
+    text-align: center;
+    border-color: blue;
+    padding:30px;
+    border-width: 10px;
+    background-color: aqua;
+    border-style: solid;
+    
+   
+}
